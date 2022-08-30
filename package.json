@@ -23,6 +23,6 @@
         "vue": "^2.5.17"
     },
     "dependencies": {
-        "moment-timezone": "^0.5.26"
+        "moment-timezone": "^0.5.35"
     }
 }
